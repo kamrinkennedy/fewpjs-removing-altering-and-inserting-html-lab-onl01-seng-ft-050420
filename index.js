@@ -3,7 +3,6 @@
 const main = document.querySelector("main#main");
 main.remove();
 
-const newHeader = document.createElement('h1').className = "victory";
+const newHeader = document.createElement('h1');
+newHeader.className = "victory"
 
-
-const newNewHeader = document.createElement('h1').className = "victory";
