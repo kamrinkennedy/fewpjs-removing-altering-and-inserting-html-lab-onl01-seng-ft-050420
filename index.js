@@ -5,3 +5,5 @@ main.remove();
 
 const newHeader = document.createElement('h1').className = "victory";
 
+
+const newNewHeader = document.createElement('h1').className = "victory";
