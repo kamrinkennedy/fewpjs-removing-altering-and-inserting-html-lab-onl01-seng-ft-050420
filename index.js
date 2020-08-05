@@ -1,3 +1,4 @@
 // Write your code here!
 
-main = document.
+main = document.querySelector(main#main);
+main.remove();
